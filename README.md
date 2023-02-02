@@ -178,4 +178,5 @@ The above said, it is great and recommended to do the setups and all once or twi
 The arcade allows you to run heists on the casino. Not as profitable as the doomsday heists from your apartment but none the less a lot of fun.
 
 
+(to be continued)
 
