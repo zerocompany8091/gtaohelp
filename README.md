@@ -17,20 +17,26 @@ There are many youtube videos on each subject and how to complete each mission o
 
 ## Modders - good bad or ugly?
 In my time playing GTA on PC I have crossed paths with MANY modders! Actually far more than non-modders and in general i will say they are usually the nicest and helpfull players around.
+
 Do not confuse modders with griefers. Griefers are the guys that go out to intentionally ruin your day, killing you, destroying your products and so on.
+
 Many a modder i know is usually just out to have a bit of fun in the game and more often than not is willing to help you out as long as you dont blatantly just ask for cash all the time. This is annoying.
 
 
 ## 2Mod or not 2Mod?
 This is totally a personal choice. Modding is explicitly against the R* TOS so rememeber if you get caught (which is likely to happen) you can loose your account. Totally and Permanently.
+
 Now that you have been warned, i warn you again. Do not over use any mod you choose to use or show off with it to impress someone. You will get caught and banned!
+
 I warn you again, if you do use a mod, use it only to take what you need to make the game fun and less "grindy". Over use mods and you will get caught and banned!
+
 That said, use them if you choose. There are uses for mods and we will discuss them later in this guide. Please use them to have fun and help others if you so choose.
+
 I really recommend completing your first missions and setups without using any mods. Experience this fantastic game and enjoy it. When it becomes grindy and repetitive, by all means use what you need to to make it fun.
 
 
 ## Free stuff!!!
-The ciminal enterprises starter pack you most likely have has a bunch of usefull stuff to get you going.
+The criminal enterprises starter pack you most likely have has a bunch of usefull stuff to get you going.
 Notable bits you should buy (free only) are:
 * Maze foreclosures : Bunker, Bike clubhouse (name your bike club something catchy please!)
 * Dynasty 8 : Apartment, Garage
