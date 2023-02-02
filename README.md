@@ -103,8 +103,9 @@ It is always good to work on your player skills and stats. Although methods chan
 
 
 ## Modding and Mods
+In short... DONT DO IT! but if you must ;) :
 As i mentioned, these are against thr R* TOS. Use entirely at your own risk.
-DO NOT download anyting you see on youtube. Only download modes from trusted sources, this is especially true for free stuff.
+DO NOT download anyting you see on youtube. Only download mods from trusted sources, this is especially true for free stuff.
 BE WARNED : do not use any mod immediately after a game update. Ensure the menu is updated and compatible or you WILL get caught and banned.
 
 The best source for free mods is here:
