@@ -3,6 +3,7 @@
 Source https://github.com/zerocompany8091/gtaohelp
 
 There are many ways to make $$$ in GTA online but it is soul destroying to grind the same missions over and over and over day after day.
+
 Here I will share some basics to get you setup and earning a bit of cash as well as some advice on easing the burden and making the game fun!!!
 
 
@@ -12,6 +13,7 @@ NB
 * Only upgrade what is explicitly stated in this guide as you go. Do not spend a cent more than you have to.
 
 This guide will suggest what to do but not how. 
+
 There are many youtube videos on each subject and how to complete each mission or setup.
 
 
@@ -31,12 +33,12 @@ Now that you have been warned, i warn you again. Do not over use any mod you cho
 I warn you again, if you do use a mod, use it only to take what you need to make the game fun and less "grindy". Over use mods and you will get caught and banned!
 
 That said, use them if you choose. There are uses for mods and we will discuss them later in this guide. Please use them to have fun and help others if you so choose.
-
 I really recommend completing your first missions and setups without using any mods. Experience this fantastic game and enjoy it. When it becomes grindy and repetitive, by all means use what you need to to make it fun.
 
 
 ## Free stuff!!!
 The criminal enterprises starter pack you most likely have has a bunch of usefull stuff to get you going.
+
 Notable bits you should buy (free only) are:
 * Maze foreclosures : Bunker, Bike clubhouse (name your bike club something catchy please!)
 * Dynasty 8 : Apartment, Garage
@@ -109,31 +111,37 @@ It is always good to work on your player skills and stats. Although methods chan
 
 
 ## Modding and Mods
-In short... DONT DO IT! but if you must ;) :
+In short... DONT DO IT! but if you must ;) 
+
 As i mentioned, these are against thr R* TOS. Use entirely at your own risk.
+
 DO NOT download anyting you see on youtube. Only download mods from trusted sources, this is especially true for free stuff.
+
 BE WARNED : do not use any mod immediately after a game update. Ensure the menu is updated and compatible or you WILL get caught and banned.
 
 The best source for free mods is here:
 https://www.unknowncheats.me/forum/grand-theft-auto-v/144173-grand-theft-auto-complete-hack-tool-list.html
 
 The best mod menus and safest i.m.o to use (and i personally have tested) are:
+
 ### Free
 * Kiddion's Modest External Menu (most comprehensive and extensible free menu)
 * N3NY000 Menu (fair features)
 * Stand Free (very basic protections)
+
 ### Paid mod menu's (source from their websites)
 * 2Take1 (my personal choice)
 * Stand (an excellent choice as well)
 There are many other paid menus but i do not have experience with them and therefore do not mention them.
 
 I will not warn again, use a mod menu entirely at your own risk. The chance of getting caught and banned is high. 
+
 Your choice, your risk / reward / loss.
 
 # Getting going for a passive income
-The best thing is being able to just play, drive and hang out while you make $$$ in the game. This section is to guide you in acheiving this relatively easily and my hope is that playing will become and remain fun for you as it has for me!
+The best thing is being able to just play, drive and hang out while you make $$$ in the game. 
+This section is to guide you in acheiving this relatively easily and my hope is that playing will become and remain fun for you as it has for me!
 
-While doing the bits 
 
 ## Bunker
 Buy the (free) bunker and complete the setup mission.
@@ -141,26 +149,37 @@ Periodically sell the excess weapons for a quick 50k
 
 ## Nighclub
 Buy the cheapest nightclub, complete the setup for it and get a DJ. You can move to a more expensive nightclub later that is more accessible.
+
 Assign a technician to sporting goods (Bunker / Guns) in your nightclub.
+
 Once you have your nightclub setup, you will be earning $50k per game day (48 mins playtime)
 
 When possible hire a second DJ. The intention is to keep the club popularity above 80%. As long as the popularity is kept up, you will earn the 50k per 'day'
+
 The alternative to this is to do the nightclub advertising missions and the internal blue dot missions (trouble maker / vip) to maintain popularity.
 The easiest is the 2nd DJ. just switch between the 2 to maintain popularity. This way the switch costs 10k per time and you will be earning 40k per day nett then.
 
 Keep working the nightclub and do VIP jobs / sight seer / normal jobs / CEO bodyguard work, whatever to make cash to updgrade staff, security and equipment on the nightclub. This is important to get upgraded and complete.
-WHen you enter the nightclub there are often troublemaker or VIP missions available. Do these for some easy $$ and to increase the club popularity.
+
+When you enter the nightclub there are often troublemaker or VIP missions available. Do these for some easy $$ and to increase the club popularity.
 
 ## Nightclub Hub businesses
 At this point you have setup your nightclub and bunker as well as have a technician working guns from the bunker in the nightclub hub.
+
 Monitor the hub stock levels and sell goods when the stock fills up to make space for more.
+
 In turn, buy each of the Motorcycle club businesses, do the setups and assign a technician in your nightclub to that business. Do not bother upgrading the business facilities at this time. The nightclub upgrades are the key for now.
+
 Additional technician costs are $141k, $184.5k, @240.5k, $312k
+
 When selling from the nightclub do not bother with the special orders. They are a waste of time and do not make any real additional money.
+
 Set nightclub technicians to guns, cargo, coke, meth, cash forever and sell whenever stock fills up.
 
 For now do not upgrade the MC businesses. Focus on the nightclub upgrades. The business upgrades only become important once you focus on them and run them from the arcade later.
+
 As soon as you can, once the hub businesses are setup as noted above, upgrade your nightclub facilities. 
+
 Upgrade costs for Nightclub are Equipment : $1425k, Staff : $475k, Security : $695k
 
 * If your driving stats are maxxed out and you travel, feel free to use a cab to travel around. Its slower but you earn passive $$$ while sitting back and enjoying a few beers :D
@@ -176,15 +195,22 @@ While setting up your businesses and focussing on the nightclub, you can still m
 ## Casino
 You DO NOT need a penthouse at all! This is entirely cosmetic for now.
 Just buy a standard membership for $500 at the front desk. This gives you 5k chips which you can cash out for a 4.5k profit if you have to. I prefer keeping the chips myself.
+
 Remember to spin the lucky wheel every day and to collect your 1k free chips (visitor bonus) every day.
+
 As far as games go, this is a f***ing casino. You dont win!!! Really dont bother untill you have some cash to waste betting.
+
 Blackjack though (to me) is an exception. It is realtively easy to profit from playing.
+
 Another (claimed online) profit making thing is the horse racing, athough i have not made mich from this. Google is your friend.
-Be WARNED though : certain menus allow you to rig the slot machines or cheat in the casino in general. This is dangerous. You may or may not get caught and banned for cheating. Think about it... how do you possibly explain cashing in 2 mil chips every hour? IDK, maybe if you have a 4 leaf weed clover growing out ur ass you can get away with it once a human day?
+
+Be WARNED : certain menus allow you to rig the slot machines or cheat in the casino in general. This is dangerous. You may or may not get caught and banned for cheating. Think about it... how do you possibly explain cashing in 2 mil chips every hour? IDK, maybe if you have a 4 leaf weed clover growing out ur ass you can get away with it once a human day?
 
 ## Kostatka / Cayo Perico
 When you have the $$ available, this is possibly a great investment!
+
 Each Cayo run should nett you around $2mil+, but like any of the heist finales do not forget about the the setups and effort that goes into it.
+
 The above said, it is great and recommended to do the setups and all once or twice for fun but thereafter maybe look into "alternative methods" to skip the setups -wink wink-
 
 ## Arcade / Casino heist
