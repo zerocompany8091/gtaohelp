@@ -79,6 +79,7 @@ Each day there are a few things you can do.
 * Doomsday heist
 The heists are profitable but due to the amount of setup required for any given one legit runs in the "wild" are rare. Your CEO or crew memeber may be willing to help you out with one ;)
 
+
 ## Special Missions and collectibles
 There are a few special missions you can complete, some once off to earn decent amounts of $$$ and unlock some rewards
 * Los Santos Slasher 
@@ -89,12 +90,17 @@ There are a few special missions you can complete, some once off to earn decent 
 * Stunt jumps
 There are more, google is your friend.
 
+
 ## Player Skills
 It is always good to work on your player skills and stats. Although methods change over time here are hints:
-* Driving - Drive!
-* Strength - Face punch peds on the pier. HInt - Start one of the gerald missions to avoid getting a wanted level while doing this.
+* Stamina - RUN BABY RUN!!! rubber band across the map once you are earning passive income.
+* Shooting - Headshots baby. Shoot peds!
+* Strength - Face punch peds on the pier. Hint - Start one of the gerald missions to avoid getting a wanted level while doing this.
 * Stealth - Go into sneak mode and rubber band your controller to walk across the map a few times
-* Breath - Swim underwater. This is one of the harder time consuming ones but worth it when you get to the cayo heist.
+* Flying - Well duh swimming is not going to do shit here. Go to flight school at LSA and fly baby fly!
+* Driving - Well duh, Drive!
+* Lung Capacity - Swim underwater. This is one of the harder time consuming ones but worth it when you get to the cayo heist.
+
 
 ## Modding and Mods
 As i mentioned, these are against thr R* TOS. Use entirely at your own risk.
@@ -176,7 +182,6 @@ The above said, it is great and recommended to do the setups and all once or twi
 
 ## Arcade / Casino heist
 The arcade allows you to run heists on the casino. Not as profitable as the doomsday heists from your apartment but none the less a lot of fun.
-
 
 (to be continued)
 
