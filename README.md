@@ -2,13 +2,16 @@
 
 Source https://github.com/zerocompany8091/gtaohelp
 
+NOTE: this is a personal opinion and the methods work for me. This may not be the same for you. I take no responsibility for this whatsoever.
+
 There are many ways to make $$$ in GTA online but it is soul destroying to grind the same missions over and over and over day after day.
 
 Here I will share some basics to get you setup and earning a bit of cash as well as some advice on easing the burden and making the game fun!!!
 
 
 ## Basics
-NB 
+NB :
+* The most important rule : DO NOT BUY EXPENSIVE CARS!!! The fancy stuff will naturally come later when you are earning the big $$$
 * I cannot stress this enough. Only buy FREE stuff from the Criminal Enterprises starter.
 * Only upgrade what is explicitly stated in this guide as you go. Do not spend a cent more than you have to.
 
@@ -80,12 +83,13 @@ Each day there are a few things you can do.
 * Stock the MC bar and collect earnings
 * Complete MC orders in the workshop
 * Complete missions in the autoshop
+* Acid Lab sales
 * Some CEO's can offer you boosted payout bodyguard work with their mod menu (dont beg for money or take advantage EVERY time you are online, its annoying). Feel free to ask for basic bodyguard work. If the CEO os capable and knows you the boost will likely be offered.
 * Simeons Simeonics Mission
 * Cayo heist (solo or with ppl you know)
 * Casino heist
 * Doomsday heist
-The heists are profitable but due to the amount of setup required for any given one legit runs in the "wild" are rare. Your CEO or crew memeber may be willing to help you out with one ;)
+The heists are profitable but due to the amount of setup required for any given one legit runs in the "wild" are rare. Your CEO or a fellow crew memeber may be willing to help you out with one ;)
 
 
 ## Special Missions and collectibles
@@ -202,19 +206,85 @@ As far as games go, this is a f***ing casino. You dont win!!! Really dont bother
 
 Blackjack though (to me) is an exception. It is realtively easy to profit from playing.
 
-Another (claimed online) profit making thing is the horse racing, athough i have not made mich from this. Google is your friend.
+Another (claimed online) profit making thing is the horse racing, although i have not made mich from this. Google is your friend and there are many "strategies". Have fun, but dont bet what you cant afford to loose.
 
-Be WARNED : certain menus allow you to rig the slot machines or cheat in the casino in general. This is dangerous. You may or may not get caught and banned for cheating. Think about it... how do you possibly explain cashing in 2 mil chips every hour? IDK, maybe if you have a 4 leaf weed clover growing out ur ass you can get away with it once a human day?
+Be WARNED : certain menus allow you to rig the slot machines or cheat in the casino in general. This is dangerous. You may or may not get caught and banned for cheating. Think about it... how do you possibly explain cashing in 2-4 mil chips every hour? IDK, maybe if you have a 4 leaf weed clover growing out ur ass you can get away with it once a human day?
+
+## Acid Lab
+The acid lab is a good source of semi passive income. It is cheap to get setup and upgraded with the Bricade 6x6 gifted to you free after the 6 "First Dose" missions.
+
+The setup missions should nett you 250k once off as well.
+
+You must maximize your profits by doing the "Fooligan" missions and upgrading the lab.
 
 ## Kostatka / Cayo Perico
 When you have the $$ available, this is possibly a great investment!
 
 Each Cayo run should nett you around $2mil+, but like any of the heist finales do not forget about the the setups and effort that goes into it.
 
+You can run Cayo solo if you choose and the elite challenge netts a little bonus.
+
 The above said, it is great and recommended to do the setups and all once or twice for fun but thereafter maybe look into "alternative methods" to skip the setups -wink wink-
 
 ## Arcade / Casino heist
 The arcade allows you to run heists on the casino. Not as profitable as the doomsday heists from your apartment but none the less a lot of fun.
+The Casino heist cannot be played alone.
 
-(to be continued)
+## Doomsday heist
+Like the Casino heist, you cannot play this alone. Not as profitable as the Cayo heist but still a lot of fun. Must play once at least :)
 
+
+# Modding to ease the grind
+Pretty much every menu has some form of teleportation. Once your driving stat is maxxed, use this to get around. But be carefull, being spotted teleporting can result in a ban.
+
+## RP 
+Most menu's enable you to change you skill level / rp instantly. This is relatively low risk if you dont get carried away and set stupid unrealistic numbers.
+There is little to no point being above lvl 140 odd as near everthing is unlocked at that stage.
+Setting your level to a silly high number just attracts (usually skilled players) to kill you. You do not have the skills to defend yourself and they are happy to show this to you and call you a try hard.
+
+## MC businesses, Cargo and Bunker stocking and sell missions
+These are fun once or twice but quickly become repetitive and annoying. So:
+* You can use the teleportation to quickly complete most missions
+* Some menus offer "instant finish" methods. Really usefull this feature is!
+* Ped killers (some menus) are useful when a fight is just too hard
+* Another offers a "business manager" which just runs everything in the background, leaving you free to just "Play"
+
+## Instant Cash
+Yes this is what we all want. There are usually methods with the free menus that can give you 2mil every few minuites and 2bil just as often with a paid menu and the right add-on scripts.
+It is risky as fuck to do this and you are VERY likely to attact a ban. Yes i am warning you again even though i said i wont.
+Seriously, ask yourself why do you want to risk this! If you absolutely have to, here is how. 
+Your loss if you get caught as these methods may get patched at any time and i rather say they are not safe at all.
+
+## Kiddeons Bunker Sell
+2mil odd per sale.
+Go to your bunker and register as CEO. A private / invite only session is best.
+In the menu remove the bunder supply delay.
+Go to the laptop and buy supplies if you do not have any and or goods to sell.
+In the menu, trigger production if you do not have any good ready.
+When you have goos to sell use the laptop to setup a sell mission.
+When outside, in the menu go to online services> bunker setting > bunker delivery and set the sell value to at the most 2.4mil
+Sell
+Rinse and repeat as necessary.
+NB : dont be greedy! take what you need only.
+
+## 2T1 + Master Unlocker Bunker Sell
+2bil per sale.
+Note the bunker must be fully upgraded.
+You can use MU remote access to manage the bunker from anywhere or go there or to your arcade to prep it.
+Using MU, set the bunker sell multiplier to 306720 exactly.
+Use whatever means to make sure you have 1/100 and only 1/100 item to sell in the bunker! 
+If you have more stock, dump it and start over.
+Sell the stock!
+Resupply bunker, trigger production to get back to 1/100, rinse and repeat (or dont)
+2bil is more than you will ever need!
+
+## Others
+I have read about a garbage method and a lemon method that can be used with 2T1. 
+No comment, i havnt tried or used either. 
+Go mad if you dare and can find the info.
+
+# Conclusion
+Well thats it. 
+Go mad, have fun, enjoy the game. 
+Dont be a griefer cunt. 
+Help noobs. Remember you too were once a noob.
