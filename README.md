@@ -239,7 +239,9 @@ Pretty much every menu has some form of teleportation. Once your driving stat is
 
 ## RP 
 Most menu's enable you to change you skill level / rp instantly. This is relatively low risk if you dont get carried away and set stupid unrealistic numbers.
+
 There is little to no point being above lvl 140 odd as near everthing is unlocked at that stage.
+
 Setting your level to a silly high number just attracts (usually skilled players) to kill you. You do not have the skills to defend yourself and they are happy to show this to you and call you a try hard.
 
 ## MC businesses, Cargo and Bunker stocking and sell missions
@@ -251,40 +253,54 @@ These are fun once or twice but quickly become repetitive and annoying. So:
 
 ## Instant Cash
 Yes this is what we all want. There are usually methods with the free menus that can give you 2mil every few minuites and 2bil just as often with a paid menu and the right add-on scripts.
+
 It is risky as fuck to do this and you are VERY likely to attact a ban. Yes i am warning you again even though i said i wont.
+
 Seriously, ask yourself why do you want to risk this! If you absolutely have to, here is how. 
+
 Your loss if you get caught as these methods may get patched at any time and i rather say they are not safe at all.
 
 ## Kiddeons Bunker Sell
 2mil odd per sale.
-Go to your bunker and register as CEO. A private / invite only session is best.
-In the menu remove the bunder supply delay.
-Go to the laptop and buy supplies if you do not have any and or goods to sell.
-In the menu, trigger production if you do not have any good ready.
-When you have goos to sell use the laptop to setup a sell mission.
-When outside, in the menu go to online services> bunker setting > bunker delivery and set the sell value to at the most 2.4mil
-Sell
-Rinse and repeat as necessary.
+
+* Go to your bunker and register as CEO. A private / invite only session is best.
+* In the menu remove the bunder supply delay.
+* Go to the laptop and buy supplies if you do not have any and or goods to sell.
+* In the menu, trigger production if you do not have any good ready.
+* When you have goos to sell use the laptop to setup a sell mission.
+* When outside, in the menu go to online services> bunker setting > bunker delivery and set the sell value to at the most 2.4mil
+* Sell
+* Rinse and repeat as necessary.
+
 NB : dont be greedy! take what you need only.
 
 ## 2T1 + Master Unlocker Bunker Sell
 2bil per sale.
+
 Note the bunker must be fully upgraded.
+
 You can use MU remote access to manage the bunker from anywhere or go there or to your arcade to prep it.
-Using MU, set the bunker sell multiplier to 306720 exactly.
-Use whatever means to make sure you have 1/100 and only 1/100 item to sell in the bunker! 
-If you have more stock, dump it and start over.
-Sell the stock!
-Resupply bunker, trigger production to get back to 1/100, rinse and repeat (or dont)
+
+* Using MU, set the bunker sell multiplier to 306720 exactly.
+* Use whatever means to make sure you have 1/100 and only 1/100 item to sell in the bunker! 
+* If you have more stock, dump it and start over.
+* Sell the stock!
+* Resupply bunker, trigger production to get back to 1/100, rinse and repeat (or dont)
+
 2bil is more than you will ever need!
 
 ## Others
 I have read about a garbage method and a lemon method that can be used with 2T1. 
+
 No comment, i havnt tried or used either. 
+
 Go mad if you dare and can find the info.
 
 # Conclusion
 Well thats it. 
+
 Go mad, have fun, enjoy the game. 
+
 Dont be a griefer cunt. 
+
 Help noobs. Remember you too were once a noob.
